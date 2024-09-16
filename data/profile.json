@@ -9,23 +9,23 @@
     "hardSkills": [
       {
         "name": "JavaScript",
-        "logo": "https://github.com/lucasemanuelgomes/portfolio/blob/main/data/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/lucasemanuelgomes/portfolio/main/data/imgs/js.png"
       },
       {
         "name": "Java",
-        "logo": "https://github.com/lucasemanuelgomes/portfolio/blob/main/data/imgs/java.png"
+        "logo": "https://raw.githubusercontent.com/lucasemanuelgomes/portfolio/main/data/imgs/java.png"
       },
       {
         "name": "Angular",
-        "logo": "https://github.com/lucasemanuelgomes/portfolio/blob/main/data/imgs/angular.png"
+        "logo": "https://raw.githubusercontent.com/lucasemanuelgomes/portfolio/main/data/imgs/angular.png"
       },
     {
         "name": "Python",
-        "logo": "https://github.com/lucasemanuelgomes/portfolio/blob/main/data/imgs/python.png"
+        "logo": "https://raw.githubusercontent.com/lucasemanuelgomes/portfolio/main/data/imgs/python.png"
       },
       {
         "name": "Mysql",
-        "logo": "https://github.com/lucasemanuelgomes/portfolio/blob/main/data/imgs/mysql.png"
+        "logo": "https://raw.githubusercontent.com/lucasemanuelgomes/portfolio/main/data/imgs/mysql.png"
       }
       
     ],
@@ -43,15 +43,16 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Projeto E-commerce Angular.js",
+      "url": "https://github.com/lucasemanuelgomes/protech",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Projeto formação DIO JavaScript",
+      "url": "https://github.com/lucasemanuelgomes/Pokedex",
       "github": true
     }
+    
   ],
   "professionalExperience": [
     {
